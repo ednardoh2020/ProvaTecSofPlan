@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/27 09:45:04.000.051,=E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/02/27 09:45:37.000.391,E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Unit1.pas=E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Classes\uGerenciadorExcecoes.pas</Transaction>
+    <Transaction>2021/02/28 02:00:03.000.114,=E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/02/28 02:00:23.000.942,E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Unit1.dfm=E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Threads.dfm</Transaction>
+    <Transaction>2021/02/28 02:00:23.000.942,E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Unit1.pas=E:\Sistemas\SoftPlan\ProvaTecnica\appmanutencao-master\src\Threads.pas</Transaction>
+  </Transactions>
+</BorlandProject>
